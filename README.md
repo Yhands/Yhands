@@ -4,7 +4,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=974BE6&random=false&width=435&lines=Eu+sou+YASMIN" alt="Typing SVG" /></a>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFEFF&random=false&width=435&lines=Forma%C3%A7%C3%A3o+Acad%C3%AAmica" alt="Typing SVG" /></a>
-<li>Graduação em Engenharia da Computação (5° Período) - UNIFATEC- Conclusão prevista: Dez/ 2026 </li>
+<li>Graduação em Engenharia da Computação (6° Período) - UNIFATEC- Conclusão prevista: Dez/ 2026 </li>
 
  <br> 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFFEFF&random=false&width=435&lines=Habilidades" alt="Typing SVG" /></a>
